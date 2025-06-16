@@ -19,8 +19,6 @@ Pertemuan ini bertujuan untuk memperkenalkan dasar teori kriptografi modern, per
 - [6. Tools & Sumber Belajar](#6-tools--sumber-belajar)
 - [7. Insight dan Refleksi](#7-insight-dan-refleksi)
 - [8. Referensi](#8-referensi)
-- [9. Kontributor](#9-kontributor)
-
 ---
 
 ## 1. 📖 Pendahuluan
