@@ -3,7 +3,7 @@
 Nama : Raditya Hardian Santoso
 NRP : 5027231033
 
-Dokumentasi ini merupakan rangkuman dari pertemuan kelompok mata kuliah kriptografi, dengan topik utama **Kriptografi**, yang dipresentasikan oleh [Nama Temanmu]. Materi disampaikan secara visual, teknis, dan disertai demonstrasi praktik enkripsi secara langsung menggunakan berbagai alat bantu.
+Dokumentasi ini merupakan rangkuman dari pertemuan kelompok mata kuliah kriptografi, dengan topik utama **Kriptografi**, yang dipresentasikan oleh Kelompok 7. Materi disampaikan secara visual, teknis, dan disertai demonstrasi praktik enkripsi secara langsung menggunakan berbagai alat bantu.
 
 Pertemuan ini bertujuan untuk memperkenalkan dasar teori kriptografi modern, perbedaan antar jenis algoritma kriptografi, cara kerja proses enkripsi-dekripsi, serta penerapannya di dunia nyata.
 
